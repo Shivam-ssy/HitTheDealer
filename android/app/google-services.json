@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513127514444",
+    "project_id": "hitthedealer-7c1c6",
+    "storage_bucket": "hitthedealer-7c1c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513127514444:android:9aac085244c2e220f18fe9",
+        "android_client_info": {
+          "package_name": "com.example.hit_the_dealer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV1TSlyNqaHes1bDZSAiE5cLsSgV_DS5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
